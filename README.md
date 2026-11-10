@@ -33,7 +33,7 @@ class MohtasinBari:
     builds_with = ["C++", "Java"]                                           # from my public repos
     focus       = ["Machine Learning", "Applied AI Research"]               # PLACEHOLDER: edit to match your work
     currently   = "Working on <your current project or paper>"              # PLACEHOLDER
-    learning    = ["<topic 1>", "<topic 2>"]                                # PLACEHOLDER
+    learning    = ["<NLP>", "<HCI>"]                                # PLACEHOLDER
     open_to     = ["Research collaborations", "Open-source AI/ML projects"] # PLACEHOLDER
 
     def mission(self):
@@ -217,7 +217,7 @@ I'm open to research collaborations, reviewing, and open-source work in AI/ML. R
 
 <!-- GitHub is real; every other link is a PLACEHOLDER to replace -->
 <a href="https://github.com/MohtasinBari"><img src="https://img.shields.io/badge/GitHub-MohtasinBari-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7" alt="GitHub" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/mohtasin-bari"><img src="https://img.shields.io/badge/LinkedIn-Connect-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" /></a>
 <a href="https://scholar.google.com/citations?user=7c6ORxEAAAAJ&hl=en&authuser=2"><img src="https://img.shields.io/badge/Google_Scholar-Profile-1a1b27?style=for-the-badge&logo=googlescholar&logoColor=7dcfff" alt="Google Scholar" /></a>
 <a href="https://orcid.org/0009-0005-8485-0005"><img src="https://img.shields.io/badge/ORCID-iD-1a1b27?style=for-the-badge&logo=orcid&logoColor=9ece6a" alt="ORCID" /></a>
 <a href="https://mohtasinbari.netlify.app"><img src="https://img.shields.io/badge/Website-Visit-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=bb9af7" alt="Website" /></a>
