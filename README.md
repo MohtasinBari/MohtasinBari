@@ -52,11 +52,6 @@ class MohtasinBari:
 <img src="https://img.shields.io/badge/C++-1a1b27?style=for-the-badge&logo=cplusplus&logoColor=7aa2f7" alt="C++" />
 <img src="https://img.shields.io/badge/Java-1a1b27?style=for-the-badge&logo=openjdk&logoColor=ff9e64" alt="Java" />
 <img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=7aa2f7" alt="Python" />
-<img src="https://img.shields.io/badge/PyTorch-1a1b27?style=for-the-badge&logo=pytorch&logoColor=bb9af7" alt="PyTorch" />
-<img src="https://img.shields.io/badge/TensorFlow-1a1b27?style=for-the-badge&logo=tensorflow&logoColor=ff9e64" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/scikit--learn-1a1b27?style=for-the-badge&logo=scikitlearn&logoColor=ff9e64" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/NumPy-1a1b27?style=for-the-badge&logo=numpy&logoColor=7dcfff" alt="NumPy" />
-<img src="https://img.shields.io/badge/Pandas-1a1b27?style=for-the-badge&logo=pandas&logoColor=bb9af7" alt="Pandas" />
 <img src="https://img.shields.io/badge/Jupyter-1a1b27?style=for-the-badge&logo=jupyter&logoColor=ff9e64" alt="Jupyter" />
 <img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=f7768e" alt="Git" />
 <img src="https://img.shields.io/badge/LaTeX-1a1b27?style=for-the-badge&logo=latex&logoColor=9ece6a" alt="LaTeX" />
@@ -223,14 +218,10 @@ I'm open to research collaborations, reviewing, and open-source work in AI/ML. R
 <!-- GitHub is real; every other link is a PLACEHOLDER to replace -->
 <a href="https://github.com/MohtasinBari"><img src="https://img.shields.io/badge/GitHub-MohtasinBari-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7" alt="GitHub" /></a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" /></a>
-<a href="https://twitter.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/X-Follow-1a1b27?style=for-the-badge&logo=x&logoColor=c0caf5" alt="X" /></a>
-<a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"><img src="https://img.shields.io/badge/Google_Scholar-Profile-1a1b27?style=for-the-badge&logo=googlescholar&logoColor=7dcfff" alt="Google Scholar" /></a>
-<a href="https://orcid.org/YOUR-ORCID-ID"><img src="https://img.shields.io/badge/ORCID-iD-1a1b27?style=for-the-badge&logo=orcid&logoColor=9ece6a" alt="ORCID" /></a>
-<a href="https://www.researchgate.net/profile/YOUR_RG_PROFILE"><img src="https://img.shields.io/badge/ResearchGate-Profile-1a1b27?style=for-the-badge&logo=researchgate&logoColor=7dcfff" alt="ResearchGate" /></a>
-<a href="https://www.kaggle.com/YOUR_KAGGLE"><img src="https://img.shields.io/badge/Kaggle-Profile-1a1b27?style=for-the-badge&logo=kaggle&logoColor=7dcfff" alt="Kaggle" /></a>
-<a href="https://huggingface.co/YOUR_HF_USERNAME"><img src="https://img.shields.io/badge/Hugging_Face-Profile-1a1b27?style=for-the-badge&logo=huggingface&logoColor=e0af68" alt="Hugging Face" /></a>
-<a href="https://YOUR_WEBSITE.com"><img src="https://img.shields.io/badge/Website-Visit-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=bb9af7" alt="Website" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-1a1b27?style=for-the-badge&logo=gmail&logoColor=f7768e" alt="Email" /></a>
+<a href="https://scholar.google.com/citations?user=7c6ORxEAAAAJ&hl=en&authuser=2"><img src="https://img.shields.io/badge/Google_Scholar-Profile-1a1b27?style=for-the-badge&logo=googlescholar&logoColor=7dcfff" alt="Google Scholar" /></a>
+<a href="https://orcid.org/0009-0005-8485-0005"><img src="https://img.shields.io/badge/ORCID-iD-1a1b27?style=for-the-badge&logo=orcid&logoColor=9ece6a" alt="ORCID" /></a>
+<a href="https://mohtasinbari.netlify.app"><img src="https://img.shields.io/badge/Website-Visit-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=bb9af7" alt="Website" /></a>
+<a href="mailto: mohtasinbariupom5660@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1a1b27?style=for-the-badge&logo=gmail&logoColor=f7768e" alt="Email" /></a>
 
 </div>
 
