@@ -1,14 +1,16 @@
 <!-- ═══════════════════════════════════════════════════════════════
      MohtasinBari · Profile README · Tokyo Night
-     Search for "PLACEHOLDER" to find everything you still need to fill in.
+     Search for "PLACEHOLDER" or "YOUR_" to find what you still need to fill in.
      ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Mohtasin_Bari-Researcher_%26_AI%2FML_Developer-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="Mohtasin Bari banner" />
 
+<br/><br/>
+
 <a href="https://github.com/MohtasinBari">
- <img src="https://img.shields.io/badge/Tokyo_Night-Thanks_for_visiting-bb9af7?style=for-the-badge&labelColor=1a1b27" alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&multiline=false&width=720&height=50&lines=Hi%2C+I'm+Mohtasin+Bari+%F0%9F%91%8B;Researcher+%26+AI%2FML+Developer;From+C%2B%2B+and+Java+to+machine+learning;Turning+research+questions+into+working+models" alt="Typing animation" />
 </a>
 
 <br/>
@@ -25,14 +27,14 @@
 
 ```python
 class MohtasinBari:
-    role       = "Researcher & AI/ML Developer"
+    role        = "Researcher & AI/ML Developer"
     affiliation = "American International University-Bangladesh"
-    based_in   = "Dhaka, Bangladesh"
-    builds_with = ["C++", "Java"]                                          # from my public repos
-    focus      = ["Machine Learning", "Applied AI Research"]               # PLACEHOLDER: edit to match your work
-    currently  = "Working on <your current project or paper>"              # PLACEHOLDER
-    learning   = ["<topic 1>", "<topic 2>"]                                # PLACEHOLDER
-    open_to    = ["Research collaborations", "Open-source AI/ML projects"] # PLACEHOLDER
+    based_in    = "Dhaka, Bangladesh"
+    builds_with = ["C++", "Java"]                                           # from my public repos
+    focus       = ["Machine Learning", "Applied AI Research"]               # PLACEHOLDER: edit to match your work
+    currently   = "Working on <your current project or paper>"              # PLACEHOLDER
+    learning    = ["<topic 1>", "<topic 2>"]                                # PLACEHOLDER
+    open_to     = ["Research collaborations", "Open-source AI/ML projects"] # PLACEHOLDER
 
     def mission(self):
         return "Build models that are rigorous, reproducible, and useful."
@@ -67,12 +69,13 @@ class MohtasinBari:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohtasinBari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohtasinBari&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6&langs_count=8" alt="Top languages" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=MohtasinBari&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=ff9e64&currStreakLabel=7dcfff" alt="GitHub streak" />
+
+<br/><br/>
+
+<a href="https://github.com/MohtasinBari?tab=repositories"><img src="https://img.shields.io/github/followers/MohtasinBari?label=Followers&style=for-the-badge&logo=github&logoColor=7aa2f7&labelColor=1a1b27&color=bb9af7" alt="Followers" /></a>
+<a href="https://github.com/MohtasinBari?tab=stars"><img src="https://img.shields.io/github/stars/MohtasinBari/C-Codes-Modules?label=C-Codes-Modules+Stars&style=for-the-badge&logo=github&logoColor=7aa2f7&labelColor=1a1b27&color=7aa2f7" alt="Stars" /></a>
+<img src="https://img.shields.io/github/languages/top/MohtasinBari/C-Codes-Modules?label=Top+Language&style=for-the-badge&logoColor=7aa2f7&labelColor=1a1b27&color=7dcfff" alt="Top language" />
 
 </div>
 
@@ -95,28 +98,47 @@ class MohtasinBari:
 
 ## 🚀 Featured Projects
 
+<!-- Plain-link cards: no third-party image service, so they never break -->
 <div align="center">
 
-<a href="https://github.com/MohtasinBari/C-Codes-Modules">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohtasinBari&repo=C-Codes-Modules&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" alt="C-Codes-Modules" />
-</a>
-<a href="https://github.com/MohtasinBari/javaproject">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohtasinBari&repo=javaproject&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" alt="javaproject" />
-</a>
-
-<a href="https://github.com/MohtasinBari/GUI-1-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohtasinBari&repo=GUI-1-&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" alt="GUI-1-" />
-</a>
-<a href="https://github.com/MohtasinBari/GUI-2-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohtasinBari&repo=GUI-2-&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" alt="GUI-2-" />
-</a>
-
-<a href="https://github.com/MohtasinBari/GUI-3-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohtasinBari&repo=GUI-3-&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" alt="GUI-3-" />
-</a>
-<a href="https://github.com/MohtasinBari/GUI-4-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohtasinBari&repo=GUI-4-&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" alt="GUI-4-" />
-</a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MohtasinBari/C-Codes-Modules">📘 C-Codes-Modules</a></h3>
+      <p>Introduction to programming</p>
+      <img src="https://img.shields.io/badge/C++-1a1b27?style=flat-square&logo=cplusplus&logoColor=7aa2f7" alt="C++" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MohtasinBari/javaproject">☕ javaproject</a></h3>
+      <p>PLACEHOLDER: one-line description</p>
+      <img src="https://img.shields.io/badge/Java-1a1b27?style=flat-square&logo=openjdk&logoColor=ff9e64" alt="Java" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MohtasinBari/GUI-1-">🖥️ GUI-1-</a></h3>
+      <p>PLACEHOLDER: one-line description</p>
+      <img src="https://img.shields.io/badge/Java-1a1b27?style=flat-square&logo=openjdk&logoColor=ff9e64" alt="Java" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MohtasinBari/GUI-2-">🖥️ GUI-2-</a></h3>
+      <p>PLACEHOLDER: one-line description</p>
+      <img src="https://img.shields.io/badge/Java-1a1b27?style=flat-square&logo=openjdk&logoColor=ff9e64" alt="Java" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MohtasinBari/GUI-3-">🖥️ GUI-3-</a></h3>
+      <p>PLACEHOLDER: one-line description</p>
+      <img src="https://img.shields.io/badge/Java-1a1b27?style=flat-square&logo=openjdk&logoColor=ff9e64" alt="Java" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MohtasinBari/GUI-4-">🖥️ GUI-4-</a></h3>
+      <p>PLACEHOLDER: one-line description (public template)</p>
+      <img src="https://img.shields.io/badge/Java-1a1b27?style=flat-square&logo=openjdk&logoColor=ff9e64" alt="Java" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -218,6 +240,8 @@ I'm open to research collaborations, reviewing, and open-source work in AI/ML. R
 
 <img src="https://komarev.com/ghpvc/?username=MohtasinBari&label=VISITORS&color=bb9af7&labelColor=1a1b27&style=flat-square" alt="Visitor counter" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:7aa2f7,50:24283b,100:1a1b27&section=footer" alt="Footer" width="100%" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Tokyo_Night-Thanks_for_visiting-bb9af7?style=for-the-badge&labelColor=1a1b27" alt="Footer" />
 
 </div>
