@@ -233,6 +233,6 @@ I'm open to research collaborations, reviewing, and open-source work in AI/ML. R
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Tokyo_Night-Thanks_for_visiting-bb9af7?style=for-the-badge&labelColor=1a1b27" alt="Footer" />
+<img src="https://img.shields.io/badge/Thanks_for_visiting-bb9af7?style=for-the-badge&labelColor=1a1b27" alt="Footer" />
 
 </div>
