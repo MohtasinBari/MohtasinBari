@@ -33,7 +33,7 @@ class MohtasinBari:
     builds_with = ["C++", "Java"]                                           # from my public repos
     focus       = ["Machine Learning", "Applied AI Research"]               # PLACEHOLDER: edit to match your work
     currently   = "Working on <your current project or paper>"              # PLACEHOLDER
-    learning    = ["<NLP>", "<HCI>"]                                # PLACEHOLDER
+    learning    = ["NLP", "HCI"]                                # PLACEHOLDER
     open_to     = ["Research collaborations", "Open-source AI/ML projects"] # PLACEHOLDER
 
     def mission(self):
