@@ -30,11 +30,11 @@ class MohtasinBari:
     role        = "Researcher & AI/ML Developer"
     affiliation = "American International University-Bangladesh"
     based_in    = "Dhaka, Bangladesh"
-    builds_with = ["C++", "Java"]                                           # from my public repos
-    focus       = ["Machine Learning", "Applied AI Research"]               # PLACEHOLDER: edit to match your work
-    currently   = "Working on <your current project or paper>"              # PLACEHOLDER
-    learning    = ["NLP", "HCI"]                                # PLACEHOLDER
-    open_to     = ["Research collaborations", "Open-source AI/ML projects"] # PLACEHOLDER
+    builds_with = ["C++", "Java"]                                           
+    focus       = ["Machine Learning", "Applied AI Research"]               
+    currently   = "No"              
+    learning    = ["NLP", "HCI"]                                
+    open_to     = ["Research collaborations", "Open-source AI/ML projects"] 
 
     def mission(self):
         return "Build models that are rigorous, reproducible, and useful."
