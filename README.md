@@ -5,10 +5,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b27,50:24283b,100:7aa2f7&text=Mohtasin%20Bari&fontColor=c0caf5&fontSize=60&fontAlignY=38&desc=Researcher%20%26%20AI%2FML%20Developer&descColor=7dcfff&descSize=20&descAlignY=60&animation=fadeIn" alt="Mohtasin Bari banner" width="100%" />
+<img src="https://img.shields.io/badge/Mohtasin_Bari-Researcher_%26_AI%2FML_Developer-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="Mohtasin Bari banner" />
 
 <a href="https://github.com/MohtasinBari">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&multiline=false&width=720&height=50&lines=Hi%2C+I'm+Mohtasin+Bari+%F0%9F%91%8B;Researcher+%26+AI%2FML+Developer;From+C%2B%2B+and+Java+to+machine+learning;Turning+research+questions+into+working+models" alt="Typing animation" />
+ <img src="https://img.shields.io/badge/Tokyo_Night-Thanks_for_visiting-bb9af7?style=for-the-badge&labelColor=1a1b27" alt="Footer" />
 </a>
 
 <br/>
