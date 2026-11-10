@@ -76,21 +76,6 @@ class MohtasinBari:
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!-- Generated daily by .github/workflows/snake.yml -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohtasinBari/MohtasinBari/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohtasinBari/MohtasinBari/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/MohtasinBari/MohtasinBari/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <!-- Plain-link cards: no third-party image service, so they never break -->
