@@ -206,7 +206,7 @@ I'm open to research collaborations, reviewing, and open-source work in AI/ML. R
 <a href="https://scholar.google.com/citations?user=7c6ORxEAAAAJ&hl=en&authuser=2"><img src="https://img.shields.io/badge/Google_Scholar-Profile-1a1b27?style=for-the-badge&logo=googlescholar&logoColor=7dcfff" alt="Google Scholar" /></a>
 <a href="https://orcid.org/0009-0005-8485-0005"><img src="https://img.shields.io/badge/ORCID-iD-1a1b27?style=for-the-badge&logo=orcid&logoColor=9ece6a" alt="ORCID" /></a>
 <a href="https://mohtasinbari.netlify.app"><img src="https://img.shields.io/badge/Website-Visit-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=bb9af7" alt="Website" /></a>
-<a href="mailto: mohtasinbariupom5660@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1a1b27?style=for-the-badge&logo=gmail&logoColor=f7768e" alt="Email" /></a>
+<a href="mailto: mohtasinbari.cseaiub@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1a1b27?style=for-the-badge&logo=gmail&logoColor=f7768e" alt="Email" /></a>
 
 </div>
 
