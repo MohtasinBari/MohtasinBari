@@ -50,9 +50,9 @@ class MohtasinBari:
 
 <!-- C++ and Java are confirmed by your repos. The rest are PLACEHOLDERS: keep only what you use -->
 <img src="https://img.shields.io/badge/C++-1a1b27?style=for-the-badge&logo=cplusplus&logoColor=7aa2f7" alt="C++" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/Java-1a1b27?style=for-the-badge&logo=openjdk&logoColor=ff9e64" alt="Java" />
 <img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=7aa2f7" alt="Python" />
-<img src="https://img.shields.io/badge/Jupyter-1a1b27?style=for-the-badge&logo=jupyter&logoColor=ff9e64" alt="Jupyter" />
 <img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=f7768e" alt="Git" />
 <img src="https://img.shields.io/badge/LaTeX-1a1b27?style=for-the-badge&logo=latex&logoColor=9ece6a" alt="LaTeX" />
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
