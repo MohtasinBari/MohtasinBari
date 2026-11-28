@@ -55,7 +55,10 @@ class MohtasinBari:
 <img src="https://img.shields.io/badge/Jupyter-1a1b27?style=for-the-badge&logo=jupyter&logoColor=ff9e64" alt="Jupyter" />
 <img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=f7768e" alt="Git" />
 <img src="https://img.shields.io/badge/LaTeX-1a1b27?style=for-the-badge&logo=latex&logoColor=9ece6a" alt="LaTeX" />
-
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </div>
 
 ---
